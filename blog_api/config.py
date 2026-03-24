@@ -1,0 +1,1 @@
+DATABASE = "blog.db"
